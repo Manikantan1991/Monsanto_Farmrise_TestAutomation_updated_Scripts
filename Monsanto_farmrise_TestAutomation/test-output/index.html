@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Farmrise_Automation">
+              <span class="suite-name border-passed">Farmrise_Automation</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Farmrise_Automation">
+                    <span>E:\Monsanto_farmrise_TestAutomation\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Farmrise_Automation">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Farmrise_Automation">
+                    <span>3 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Farmrise_Automation">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Farmrise_Automation">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Farmrise_Automation">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Farmrise_Automation">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">3 methods,   3 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Farmrise_Automation" class="hide-methods passed suite-Farmrise_Automation"> (hide)</a> <!-- hide-methods passed suite-Farmrise_Automation -->
+                      <a href="#" panel-name="suite-Farmrise_Automation" class="show-methods passed suite-Farmrise_Automation"> (show)</a> <!-- show-methods passed suite-Farmrise_Automation -->
+                    </span>
+                    <div class="method-list-content passed suite-Farmrise_Automation">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Farmrise_Automation" title="Testscript.BaseClass" hash-for-method="Morepage_Testscript">Morepage_Testscript</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Farmrise_Automation" title="Testscript.BaseClass" hash-for-method="boarding_Testscript">boarding_Testscript</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Farmrise_Automation" title="Testscript.BaseClass" hash-for-method="homescreen_Testscript">homescreen_Testscript</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Farmrise_Automation -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Farmrise_Automation" class="panel Farmrise_Automation">
+          <div class="suite-Farmrise_Automation-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">Testscript.BaseClass</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="Morepage_Testscript">
+                  </a> <!-- Morepage_Testscript -->
+                  <span class="method-name">Morepage_Testscript</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="boarding_Testscript">
+                  </a> <!-- boarding_Testscript -->
+                  <span class="method-name">boarding_Testscript</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="homescreen_Testscript">
+                  </a> <!-- homescreen_Testscript -->
+                  <span class="method-name">homescreen_Testscript</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Farmrise_Automation-class-passed -->
+        </div> <!-- panel Farmrise_Automation -->
+        <div panel-name="test-xml-Farmrise_Automation" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">E:\Monsanto_farmrise_TestAutomation\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Farmrise_Automation&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;SmokeTestCases&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;Testscript.BaseClass&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- SmokeTestCases --&gt;
+&lt;/suite&gt; &lt;!-- Farmrise_Automation --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Farmrise_Automation" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Farmrise_Automation</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">SmokeTestCases (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Farmrise_Automation" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Farmrise_Automation</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">Home_page</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">homescreen_Testscript</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">More_page</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">Morepage_Testscript</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">OnBoarding_page</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">boarding_Testscript</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Farmrise_Automation" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Farmrise_Automation</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Farmrise_Automation');
+function tableData_Farmrise_Automation() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(3);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'homescreen_Testscript')
+data.setCell(0, 2, 'Testscript.BaseClass')
+data.setCell(0, 3, 31817);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'Morepage_Testscript')
+data.setCell(1, 2, 'Testscript.BaseClass')
+data.setCell(1, 3, 16353);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'boarding_Testscript')
+data.setCell(2, 2, 'Testscript.BaseClass')
+data.setCell(2, 3, 14548);
+window.suiteTableData['Farmrise_Automation']= { tableData: data, tableDiv: 'times-div-Farmrise_Automation'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <div id="times-div-Farmrise_Automation">
+              </div> <!-- times-div-Farmrise_Automation -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Farmrise_Automation" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Farmrise_Automation</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">boarding_Testscript</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">English Button Element exists</span>
+                <span class="reporter-method-output">Crop page doesnot appear. Looks like CROP is already selected on this device.</span>
+                <span class="reporter-method-output">Swipe operation starts </span>
+                <span class="reporter-method-output">Swipped Right to Left Swipe starts</span>
+                <span class="reporter-method-output">Swipped Right to Left Swipe starts</span>
+                <span class="reporter-method-output">Swipped Right to Left Swipe starts</span>
+                <span class="reporter-method-output">Swipped Right to Left Swipe starts</span>
+                <span class="reporter-method-output">Successfully Swipped.</span>
+                <span class="reporter-method-output"> Boarding Screen is Sucess Full </span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">Morepage_Testscript</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Swipped /Scrolled from Bottom to Top</span>
+                <span class="reporter-method-output">Swipped /Scrolled from Bottom to Top</span>
+                <span class="reporter-method-output">Successfully Scrolled.</span>
+                <span class="reporter-method-output">Search button is clicked</span>
+                <span class="reporter-method-output">Successfully Tapped.</span>
+                <span class="reporter-method-output">FAILED Test</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">homescreen_Testscript</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">----------------------Now</span>
+                <span class="reporter-method-output">----------------------1 AM</span>
+                <span class="reporter-method-output">----------------------2 AM</span>
+                <span class="reporter-method-output">----------------------3 AM</span>
+                <span class="reporter-method-output">----------------------4 AM</span>
+                <span class="reporter-method-output">----------------------5 AM</span>
+                <span class="reporter-method-output">Swiping in Portrait</span>
+                <span class="reporter-method-output">Swiping in Portrait</span>
+                <span class="reporter-method-output">Swiping in Portrait</span>
+                <span class="reporter-method-output">Swiping in Portrait</span>
+                <span class="reporter-method-output">Swiping in Portrait</span>
+                <span class="reporter-method-output">Swiping in Portrait</span>
+                <span class="reporter-method-output">----------------------++++++++++++++Now</span>
+                <span class="reporter-method-output">----------------------++++++++++++++1 AM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++2 AM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++3 AM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++4 AM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++5 AM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++6 AM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++7 AM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++8 AM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++9 AM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++10 AM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++11 AM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++12 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++1 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++2 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++3 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++4 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++5 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++6 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++7 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++8 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++9 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++10 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++7 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++8 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++9 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++10 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++11 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++7 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++8 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++9 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++10 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++11 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++7 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++8 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++9 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++10 PM</span>
+                <span class="reporter-method-output">----------------------++++++++++++++11 PM</span>
+                <span class="reporter-method-output">Time displayed in device   is :Mon Jan  7 00:33:54 IST 2019</span>
+                <span class="reporter-method-output">*****************************************************************</span>
+                <span class="reporter-method-output">Time format is proper</span>
+                <span class="reporter-method-output"> check weather details from Now to 23hrs</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Farmrise_Automation" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Farmrise_Automation" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">Testscript.BaseClass</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">_setup</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
+              <div class="test-method">
+                <span class="method-name">boarding_Testscript</span>
+                <span class="method-start">37167 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">homescreen_Testscript</span>
+                <span class="method-start">51715 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">Morepage_Testscript</span>
+                <span class="method-start">83534 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-suite after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">99915 ms</span>
+              </div> <!-- configuration-suite after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

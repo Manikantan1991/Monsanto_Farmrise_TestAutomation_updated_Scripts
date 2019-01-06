@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Farmrise_Automation]">
+  <test name="SmokeTestCases(failed)">
+    <classes>
+      <class name="Testscript.BaseClass">
+        <methods>
+          <include name="boarding_Testscript"/>
+          <include name="Morepage_Testscript"/>
+          <include name="_setup"/>
+          <include name="tearDown"/>
+          <include name="homescreen_Testscript"/>
+        </methods>
+      </class> <!-- Testscript.BaseClass -->
+    </classes>
+  </test> <!-- SmokeTestCases(failed) -->
+</suite> <!-- Failed suite [Farmrise_Automation] -->

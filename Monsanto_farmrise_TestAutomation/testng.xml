@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Farmrise_Automation">
+  <test thread-count="5" name="SmokeTestCases">
+    <classes>
+      <class name="Testscript.BaseClass"/>
+    </classes>
+  </test> <!-- SmokeTestCases -->
+</suite> <!-- Farmrise_Automation -->

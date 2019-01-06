@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[----------------appium driver initialised----------------]]>
+    </line>
+    <line>
+      <![CDATA[Window name is :.SplashScreen]]>
+    </line>
+    <line>
+      <![CDATA[Successfully installed.]]>
+    </line>
+    <line>
+      <![CDATA[English Button Element exists]]>
+    </line>
+    <line>
+      <![CDATA[Crop page doesnot appear. Looks like CROP is already selected on this device.]]>
+    </line>
+    <line>
+      <![CDATA[Swipe operation starts ]]>
+    </line>
+    <line>
+      <![CDATA[Swipped Right to Left Swipe starts]]>
+    </line>
+    <line>
+      <![CDATA[Swipped Right to Left Swipe starts]]>
+    </line>
+    <line>
+      <![CDATA[Swipped Right to Left Swipe starts]]>
+    </line>
+    <line>
+      <![CDATA[Swipped Right to Left Swipe starts]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Swipped.]]>
+    </line>
+    <line>
+      <![CDATA[ Boarding Screen is Sucess Full ]]>
+    </line>
+    <line>
+      <![CDATA[----------------------Now]]>
+    </line>
+    <line>
+      <![CDATA[----------------------1 AM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------2 AM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------3 AM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------4 AM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------5 AM]]>
+    </line>
+    <line>
+      <![CDATA[Swiping in Portrait]]>
+    </line>
+    <line>
+      <![CDATA[Swiping in Portrait]]>
+    </line>
+    <line>
+      <![CDATA[Swiping in Portrait]]>
+    </line>
+    <line>
+      <![CDATA[Swiping in Portrait]]>
+    </line>
+    <line>
+      <![CDATA[Swiping in Portrait]]>
+    </line>
+    <line>
+      <![CDATA[Swiping in Portrait]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++Now]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++1 AM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++2 AM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++3 AM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++4 AM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++5 AM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++6 AM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++7 AM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++8 AM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++9 AM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++10 AM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++11 AM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++12 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++1 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++2 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++3 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++4 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++5 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++6 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++7 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++8 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++9 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++10 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++7 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++8 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++9 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++10 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++11 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++7 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++8 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++9 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++10 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++11 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++7 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++8 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++9 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++10 PM]]>
+    </line>
+    <line>
+      <![CDATA[----------------------++++++++++++++11 PM]]>
+    </line>
+    <line>
+      <![CDATA[Time displayed in device   is :Mon Jan  7 00:33:54 IST 2019]]>
+    </line>
+    <line>
+      <![CDATA[*****************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[Time format is proper]]>
+    </line>
+    <line>
+      <![CDATA[ check weather details from Now to 23hrs]]>
+    </line>
+    <line>
+      <![CDATA[Swipped /Scrolled from Bottom to Top]]>
+    </line>
+    <line>
+      <![CDATA[Swipped /Scrolled from Bottom to Top]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Scrolled.]]>
+    </line>
+    <line>
+      <![CDATA[Search button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Tapped.]]>
+    </line>
+    <line>
+      <![CDATA[FAILED Test]]>
+    </line>
+    <line>
+      <![CDATA[Close the Driver]]>
+    </line>
+  </reporter-output>
+  <suite name="Farmrise_Automation" duration-ms="62737" started-at="2019-01-06T19:03:21Z" finished-at="2019-01-06T19:04:24Z">
+    <groups>
+      <group name="OnBoarding_page">
+        <method signature="BaseClass.boarding_Testscript()[pri:0, instance:Testscript.BaseClass@6a41eaa2]" name="boarding_Testscript" class="Testscript.BaseClass"/>
+      </group> <!-- OnBoarding_page -->
+      <group name="Home_page">
+        <method signature="BaseClass.homescreen_Testscript()[pri:1, instance:Testscript.BaseClass@6a41eaa2]" name="homescreen_Testscript" class="Testscript.BaseClass"/>
+      </group> <!-- Home_page -->
+      <group name="More_page">
+        <method signature="BaseClass.Morepage_Testscript()[pri:2, instance:Testscript.BaseClass@6a41eaa2]" name="Morepage_Testscript" class="Testscript.BaseClass"/>
+      </group> <!-- More_page -->
+    </groups>
+    <test name="SmokeTestCases" duration-ms="62737" started-at="2019-01-06T19:03:21Z" finished-at="2019-01-06T19:04:24Z">
+      <class name="Testscript.BaseClass">
+        <test-method status="PASS" signature="_setup()[pri:0, instance:Testscript.BaseClass@6a41eaa2]" name="_setup" is-config="true" duration-ms="37152" started-at="2019-01-07T00:32:44Z" finished-at="2019-01-07T00:33:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[----------------appium driver initialised----------------]]>
+            </line>
+            <line>
+              <![CDATA[Window name is :.SplashScreen]]>
+            </line>
+            <line>
+              <![CDATA[Successfully installed.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- _setup -->
+        <test-method status="PASS" signature="boarding_Testscript()[pri:0, instance:Testscript.BaseClass@6a41eaa2]" name="boarding_Testscript" duration-ms="14548" started-at="2019-01-07T00:33:21Z" finished-at="2019-01-07T00:33:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[English Button Element exists]]>
+            </line>
+            <line>
+              <![CDATA[Crop page doesnot appear. Looks like CROP is already selected on this device.]]>
+            </line>
+            <line>
+              <![CDATA[Swipe operation starts ]]>
+            </line>
+            <line>
+              <![CDATA[Swipped Right to Left Swipe starts]]>
+            </line>
+            <line>
+              <![CDATA[Swipped Right to Left Swipe starts]]>
+            </line>
+            <line>
+              <![CDATA[Swipped Right to Left Swipe starts]]>
+            </line>
+            <line>
+              <![CDATA[Swipped Right to Left Swipe starts]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Swipped.]]>
+            </line>
+            <line>
+              <![CDATA[ Boarding Screen is Sucess Full ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- boarding_Testscript -->
+        <test-method status="PASS" signature="homescreen_Testscript()[pri:1, instance:Testscript.BaseClass@6a41eaa2]" name="homescreen_Testscript" duration-ms="31817" started-at="2019-01-07T00:33:35Z" depends-on-methods="Testscript.BaseClass.boarding_Testscript" finished-at="2019-01-07T00:34:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[----------------------Now]]>
+            </line>
+            <line>
+              <![CDATA[----------------------1 AM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------2 AM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------3 AM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------4 AM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------5 AM]]>
+            </line>
+            <line>
+              <![CDATA[Swiping in Portrait]]>
+            </line>
+            <line>
+              <![CDATA[Swiping in Portrait]]>
+            </line>
+            <line>
+              <![CDATA[Swiping in Portrait]]>
+            </line>
+            <line>
+              <![CDATA[Swiping in Portrait]]>
+            </line>
+            <line>
+              <![CDATA[Swiping in Portrait]]>
+            </line>
+            <line>
+              <![CDATA[Swiping in Portrait]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++Now]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++1 AM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++2 AM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++3 AM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++4 AM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++5 AM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++6 AM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++7 AM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++8 AM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++9 AM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++10 AM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++11 AM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++12 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++1 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++2 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++3 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++4 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++5 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++6 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++7 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++8 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++9 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++10 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++7 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++8 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++9 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++10 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++11 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++7 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++8 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++9 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++10 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++11 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++7 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++8 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++9 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++10 PM]]>
+            </line>
+            <line>
+              <![CDATA[----------------------++++++++++++++11 PM]]>
+            </line>
+            <line>
+              <![CDATA[Time displayed in device   is :Mon Jan  7 00:33:54 IST 2019]]>
+            </line>
+            <line>
+              <![CDATA[*****************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[Time format is proper]]>
+            </line>
+            <line>
+              <![CDATA[ check weather details from Now to 23hrs]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- homescreen_Testscript -->
+        <test-method status="PASS" signature="Morepage_Testscript()[pri:2, instance:Testscript.BaseClass@6a41eaa2]" name="Morepage_Testscript" duration-ms="16353" started-at="2019-01-07T00:34:07Z" depends-on-methods="Testscript.BaseClass.boarding_Testscript" finished-at="2019-01-07T00:34:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Swipped /Scrolled from Bottom to Top]]>
+            </line>
+            <line>
+              <![CDATA[Swipped /Scrolled from Bottom to Top]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Scrolled.]]>
+            </line>
+            <line>
+              <![CDATA[Search button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Tapped.]]>
+            </line>
+            <line>
+              <![CDATA[FAILED Test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Morepage_Testscript -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Testscript.BaseClass@6a41eaa2]" name="tearDown" is-config="true" duration-ms="859" started-at="2019-01-07T00:34:24Z" finished-at="2019-01-07T00:34:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Close the Driver]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Testscript.BaseClass -->
+    </test> <!-- SmokeTestCases -->
+  </suite> <!-- Farmrise_Automation -->
+</testng-results>
